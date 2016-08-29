@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: b3616251e1642ca4b84f15a0db035931
+timeCreated: 1472422343
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_0
+    21300002: fire_1
+    21300004: fire_2
+    21300006: fire_3
+    21300008: fire_4
+    21300010: fire_5
+    21300012: fire_6
+    21300014: fire_7
+    21300016: fire_8
+    21300018: fire_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 532
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fire_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 532
+        width: 32
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 52}
+        - {x: -16, y: 1}
+        - {x: -15, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 1}
+        - {x: 16, y: 19}
+        - {x: 16, y: 46}
+        - {x: 7, y: 52}
+    - name: fire_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 533
+        width: 29
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fire_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 533
+        width: 28
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fire_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 534
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fire_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 458
+        width: 29
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: fire_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 451
+        width: 33
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 60}
+        - {x: -9.5, y: 54}
+        - {x: -16.5, y: 41}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 51}
+        - {x: 10.5, y: 60}
+      - - {x: -7.5, y: 56}
+        - {x: -4.5, y: 57}
+        - {x: -4.5, y: 66}
+        - {x: -10.5, y: 66}
+        - {x: -10.5, y: 59}
+    - name: fire_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 451
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 70}
+        - {x: -16, y: 52}
+        - {x: -16, y: 5}
+        - {x: -12, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 2}
+        - {x: 16, y: 61}
+        - {x: 11, y: 70}
+    - name: fire_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 451
+        width: 34
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 76}
+        - {x: -16, y: 71}
+        - {x: -17, y: 64}
+        - {x: -17, y: 2}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 17, y: 2}
+        - {x: 17, y: 64}
+        - {x: 14, y: 76}
+    - name: fire_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 451
+        width: 33
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 55}
+        - {x: -6.5, y: 55}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 5}
+        - {x: -14.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 16.5, y: 4}
+        - {x: 16.5, y: 33}
+        - {x: 8.5, y: 53}
+      - - {x: 7.5, y: 73}
+        - {x: 7.5, y: 43}
+        - {x: 13.5, y: 37}
+        - {x: 16.5, y: 37}
+        - {x: 16.5, y: 67}
+        - {x: 13.5, y: 73}
+      - - {x: -10.5, y: 73}
+        - {x: -15.5, y: 66}
+        - {x: -16.5, y: 65}
+        - {x: -16.5, y: 48}
+        - {x: -15.5, y: 44}
+        - {x: -12.5, y: 44}
+        - {x: -10.5, y: 45}
+        - {x: -3.5, y: 59}
+        - {x: -3.5, y: 73}
+      - - {x: -1.5, y: 74}
+        - {x: -1.5, y: 54}
+        - {x: 5.5, y: 54}
+        - {x: 6.5, y: 55}
+        - {x: 6.5, y: 68}
+        - {x: 5.5, y: 74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
